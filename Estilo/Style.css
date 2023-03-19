@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*AQUI DA INICIO AOS ESTILOS DOS CAROTOES*/
+
+.cards {
+    width: 100%;
+    margin-left: 0px;
+}
+
+/*AQUI TERMINA OS ESTILOS DOS CAROTOES*/
+
+
+/*____________________________________________________________________________*/
+
+
+/*AQUI DA INICIO AOS ESTILOS DO CARROSSEL*/
+
+.main_carrossel {
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+/*AQUI TERMINA OS ESTILOS DO CARROSSEL*/
+
+/*AQUI DA INICIO AOS ESTILOS DA PAGINA DE TERMO DE USO*/
+
+.cabecalho{
+    text-align: center;
+
+}
+
+.aviso{
+    background-color: aqua;
+}
+
+/*AQUI DA TERMINA OS ESTILOS DA PAGINA DE TERMO DE USO*/
+
+
+
+
+
+/* .featurette-divider{
+    margin-top: 20px;
+    margin-bottom: 20px;
+} */
+
+/* .quadro_1 {
+    padding: 0px 10px 0px 25px;
+}
+
+.quadro_2 {
+    padding: 0px 10px 0px 0px;
+}
+.quadro_3 {
+    padding: 0px 0px 0px 0px;
+}
+
+.quadro_4 {
+    padding: 0px 10px 0px 25px
+}
+
+.quadro_5 {
+    padding: 0px 10px 0px 0px;
+}
+
+.quadro_6 {
+    padding: 0px 0px 0px 0px;
+} */
+
+
+/* .row {
+    margin-top: 50px;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+/* .borda{
+    padding: 40px;
+   
+} */
+
+/* .margem{
+
+    margin-top: 0px;
+    height: 30px;
+} */
+
+/* button{
+
+} */
+
+
+/* video {
+    height: 100%;
+    width: 100%;
+} */
+
+
+/* .d-block carousel-item active:nth-of-type(odd) {
+    height: 100px;
+
+} */
